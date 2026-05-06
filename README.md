@@ -4,11 +4,15 @@
 
 <div style="text-align: center;">
   <a href="https://bestproxy.com/?keyword=myspaqek" target="_blank">
-    <img src="assets/bestproxy.webp" alt="BestProxy - 高纯度住宅IP资源，支持一号一IP独享模式，全链路防关联，降低风控概率，著提升账号通过率与长期存活率" width="50%">
+    <img src="assets/bestproxy.jpg" alt="BestProxy - 高纯度住宅IP资源，支持一号一IP独享模式，全链路防关联，降低风控概率，著提升账号通过率与长期存活率" width="70%">
   </a>
 </div>
 
-> ⚠️ **免责声明**：本项目仅供学习和研究使用，不得用于任何商业用途。使用本项目所产生的一切后果由使用者自行承担。
+> [BestProxy](https://bestproxy.com/?keyword=myspaqek) - 高纯度住宅IP资源，支持一号一IP独享模式，全链路防关联，降低风控概率，著提升账号通过率与长期存活率
+
+---
+
+>⚠️ **免责声明**：本项目仅供学习和研究使用，不得用于任何商业用途。使用本项目所产生的一切后果由使用者自行承担。
 
 ## 致谢
 
